@@ -34,7 +34,7 @@
     "node-telegram-bot-api": "^0.24.0",
     "request": "^2.75.0",
     "simple-git": "^1.55.0",
-    "slackbots": "^0.5.3",
+    "slackbots": "^1.0.1",
     "string": "^3.3.3",
     "yargs": "^6.3.0"
   },
