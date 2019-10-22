@@ -22,7 +22,7 @@
     "nordlab"
   ],
   "dependencies": {
-    "async": "^2.5.0",
+    "async": "^3.0.0",
     "botanio": "0.0.6",
     "curlrequest": "^1.0.1",
     "express": "^4.15.4",
