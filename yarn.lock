@@ -1499,16 +1499,16 @@ y18n@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.0.tgz#95ef94f85ecc81d007c264e190a120f0a3c8566b"
 
-yargs-parser@^13.1.1:
-  version "13.1.1"
-  resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-13.1.1.tgz#d26058532aa06d365fe091f6a1fc06b2f7e5eca0"
+yargs-parser@^16.1.0:
+  version "16.1.0"
+  resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-16.1.0.tgz#73747d53ae187e7b8dbe333f95714c76ea00ecf1"
   dependencies:
     camelcase "^5.0.0"
     decamelize "^1.2.0"
 
-yargs@^14.0.0:
-  version "14.0.0"
-  resolved "https://registry.yarnpkg.com/yargs/-/yargs-14.0.0.tgz#ba4cacc802b3c0b3e36a9e791723763d57a85066"
+yargs@^15.0.0:
+  version "15.0.0"
+  resolved "https://registry.yarnpkg.com/yargs/-/yargs-15.0.0.tgz#8df5a97630bac08d60792f6720fc882c732f8b4f"
   dependencies:
     cliui "^5.0.0"
     decamelize "^1.2.0"
@@ -1520,7 +1520,7 @@ yargs@^14.0.0:
     string-width "^3.0.0"
     which-module "^2.0.0"
     y18n "^4.0.0"
-    yargs-parser "^13.1.1"
+    yargs-parser "^16.1.0"
 
 yui@^3.18.1:
   version "3.18.1"
